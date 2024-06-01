@@ -1,7 +1,8 @@
-Hey there just another human 👋
+Hey there👋 I'm **Mohit**👦,
 
-I'm Mohit, I'm looking forward to learn great things.
+I'm looking forward to learn great things.
 
 Languages and Tools:
-VS Code, HTML5, CSS3, JavaScript, React, GitHub
+HTML, CSS, JavaScript, React
 
+                            
